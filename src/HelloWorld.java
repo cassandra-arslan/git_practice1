@@ -6,4 +6,7 @@ public class HelloWorld {
     //Even more coding
 
     //More changes
+
+    //Awesome work is done and ready to be committed
+    //Ready to be pushed to remote repository
 }
